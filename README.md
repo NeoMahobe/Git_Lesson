@@ -1,1 +1,1 @@
-# Git_Lesson
+# Project Name: GIT practice project
